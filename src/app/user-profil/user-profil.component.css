@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 90vh;
+    width: 50vh;
+    border: 3px solid black;
+  }
+  button {
+    margin: 10px;
+  }
